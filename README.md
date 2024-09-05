@@ -1,4 +1,4 @@
-# PGM Image Processing Tools - README
+# PGM Image Processing Tools
 
 ## Overview
 
